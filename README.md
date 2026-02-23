@@ -100,12 +100,12 @@ The data architecture for this project follows the **Medallion Architecture** �
         ├── datasets/                     # Raw datasets (ERP and CRM data)
         │
         ├── docs/                         # Project documentation and architecture
-        │   ├── etl.drawio
+        │
         │   ├── data_architecture.drawio
         │   ├── data_catalog.md
         │   ├── data_flow.drawio
         │   ├── data_models.drawio
-        │   ├── naming-conventions.md
+        │  
         │
         ├── scripts/
         │   ├── bronze/
