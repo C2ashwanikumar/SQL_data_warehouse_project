@@ -67,6 +67,8 @@ Develop a modern data warehouse using **SQL Server** to consolidate sales data, 
 
 The data architecture for this project follows the **Medallion Architecture** — Bronze, Silver, and Gold layers.
 
+![Data Warehouse Architecture](architecture_of_data_warehouse.png)
+
 ## 🏛️ Architecture Overview
 
 | Layer        | Description |
